@@ -118,6 +118,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://thumbs2.imgbox.com/d3/3f/tFOiPXUW_t.jpg" group-title="🟡 TV Nasional",MOJI TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
+#EXTINF:-1  tvg-logo="https://thumbs2.imgbox.com/d3/3f/tFOiPXUW_t.jpg" group-title="🟡 TV Nasional",MOJI_(opx)
+http://opplex.tv:8080/3116580700/0700/350997
 
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://thumbs2.imgbox.com/d3/3f/tFOiPXUW_t.jpg" group-title="🟡 TV Nasional",MOJI TV-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
